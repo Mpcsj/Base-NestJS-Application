@@ -1,7 +1,7 @@
 {
   "name": "base-nestjs-backend",
   "version": "0.0.1",
-  "description": "",
+  "description": "Base backend project with User and Auth control",
   "author": "Mpcsj",
   "private": true,
   "license": "UNLICENSED",
