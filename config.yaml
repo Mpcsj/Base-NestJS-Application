@@ -1,0 +1,4 @@
+api:
+  secret: "topSecret123"
+  expire-time: 3600
+  refresh-token-expire-time: 7200
